@@ -1,0 +1,15 @@
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\bin\Debug\netcoreapp3.1\Model.dll
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+G:\Microsoft Visual Studio\source\MyEFCoreWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
